@@ -1,0 +1,1 @@
+windup-cli  --input ./src --source springboot --target quarkus --sourceMode --output ./report
